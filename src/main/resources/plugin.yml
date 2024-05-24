@@ -1,0 +1,9 @@
+name: MobPowers
+version: '${project.version}'
+main: com.goktugv.mobpowers.Main
+api-version: '1.20'
+commands:
+  mobpowers:
+    aliases:
+      - mp
+      - mobp

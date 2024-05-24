@@ -1,0 +1,38 @@
+texturePackURL: "https://mediafilez.forgecdn.net/files/4572/688/SpawnEgg3D-1.20.zip"
+# texture pack credit | https://www.curseforge.com/minecraft/texture-packs/spawn-egg-3d
+
+plugin:
+  bee:
+    cooldown: 200
+    fly: 5
+  blaze:
+    shoot: 15
+  cat:
+    speed: 2
+    cooldown: 30
+  creeper:
+    cooldown: 300
+    explosion: 4
+    launchspeed: 1
+    resistance: 5
+    regeneration: 5
+  enderman:
+    cooldown: 10
+  ghast:
+    cooldown: 5
+  hoglin:
+    knockback: 3
+    extraDamage: 2
+  sheep:
+    addSaturation: 1
+  skeleton:
+    cooldown: 2
+  warden:
+    cooldown: 300
+  wither_skeleton:
+    damageEffectSeconds: 3
+  llama:
+    extraDamage: 3
+  wolf:
+    count: 2
+    cooldown: 500
